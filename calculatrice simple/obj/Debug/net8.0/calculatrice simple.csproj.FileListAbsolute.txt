@@ -1,0 +1,14 @@
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/calculatrice simple/calculatrice simple/bin/Debug/net8.0/calculatrice simple
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/calculatrice simple/calculatrice simple/bin/Debug/net8.0/calculatrice simple.deps.json
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/calculatrice simple/calculatrice simple/bin/Debug/net8.0/calculatrice simple.runtimeconfig.json
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/calculatrice simple/calculatrice simple/bin/Debug/net8.0/calculatrice simple.dll
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/calculatrice simple/calculatrice simple/bin/Debug/net8.0/calculatrice simple.pdb
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/calculatrice simple/calculatrice simple/obj/Debug/net8.0/calculatrice simple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/calculatrice simple/calculatrice simple/obj/Debug/net8.0/calculatrice simple.AssemblyInfoInputs.cache
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/calculatrice simple/calculatrice simple/obj/Debug/net8.0/calculatrice simple.AssemblyInfo.cs
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/calculatrice simple/calculatrice simple/obj/Debug/net8.0/calculatrice simple.csproj.CoreCompileInputs.cache
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/calculatrice simple/calculatrice simple/obj/Debug/net8.0/calculatrice simple.dll
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/calculatrice simple/calculatrice simple/obj/Debug/net8.0/refint/calculatrice simple.dll
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/calculatrice simple/calculatrice simple/obj/Debug/net8.0/calculatrice simple.pdb
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/calculatrice simple/calculatrice simple/obj/Debug/net8.0/calculatrice simple.genruntimeconfig.cache
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/calculatrice simple/calculatrice simple/obj/Debug/net8.0/ref/calculatrice simple.dll
